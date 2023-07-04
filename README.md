@@ -2,5 +2,5 @@
 
 #### Visuals:
 <p align="center">
-<img src="SemanticSeg.pdf" width="500" height="600">
+<img src="KDC/SemanticSeg.pdf" width="500" height="600">
 </p>
