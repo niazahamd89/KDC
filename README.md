@@ -2,5 +2,5 @@
 
 #### Visuals:
 <p align="center">
-<img src="Results/pose.png" width="500" height="600">
+<img src="SemanticSeg.pdf" width="500" height="600">
 </p>
