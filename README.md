@@ -8,5 +8,5 @@
 
 #### Visuals:
 <p align="center">
-<pdf src="New_RSS_Fig2-1.png" width="800" height="400">
+<img src="SemanticSeg-1.png" width="800" height="400">
 </p>
